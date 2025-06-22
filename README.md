@@ -43,5 +43,5 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Pulkit%20Gambhir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pulkitgambhir)](https://linkedin.com/in/pulkitgambhir)  
+[![LinkedIn](https://img.shields.io/badge/-Pulkit%20Gambhir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pulkit-gambhir)](https://linkedin.com/in/pulkit-gambhir)  
 [![Twitter](https://img.shields.io/badge/-@pulkitgambhir-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/gambhirpulkit)  
